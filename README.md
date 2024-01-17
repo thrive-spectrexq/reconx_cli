@@ -73,5 +73,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 Your Name
-- GitHub: [Your GitHub Profile](https://github.com/thrive-spectrexq)
+- GitHub: [thrive-spectre](https://github.com/thrive-spectrexq)
 

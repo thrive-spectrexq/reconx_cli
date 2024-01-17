@@ -74,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name
 - GitHub: [thrive-spectre](https://github.com/thrive-spectrexq)
-
+- Email: [Frimps-Thrive](frimpsbathrive@gmail.com)

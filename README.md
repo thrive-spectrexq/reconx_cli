@@ -1,7 +1,7 @@
 # ReconX-Simple_Digital_Forensics_CLI_Tool
 # ReconX
 
-ReconX is a digital forensics tool designed for capturing and analyzing network traffic, acquiring and analyzing evidence, performing incident response, and generating comprehensive reports.
+ReconX is a simple python digital forensics tool designed for capturing and analyzing network traffic, acquiring and analyzing evidence, performing incident response, and generating comprehensive reports.
 
 ## Features
 
@@ -72,6 +72,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name
+Bright Spectre
 - GitHub: [thrive-spectre](https://github.com/thrive-spectrexq)
 - Email: [frimpsbathrive@gmail.com](frimpsbathrive@gmail.com)

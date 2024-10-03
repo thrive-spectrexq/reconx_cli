@@ -20,7 +20,7 @@ ReconX is a simple python digital forensics tool designed for capturing and anal
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ReconX.git
+    git clone https://github.com/thrive-spectrexq/ReconX.git
     cd ReconX
     ```
 

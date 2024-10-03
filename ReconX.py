@@ -197,4 +197,4 @@ if __name__ == "__main__":
         reconx_tool.generate_report()
 
     except Exception as main_error:
-        logging.error(f"An unexpected error occurred: {main_error}")
+        logging.error(f"An unexpected error occurred, recheck: {main_error}")

@@ -64,14 +64,3 @@ Contributions are welcome! If you have suggestions, feature requests, or bug rep
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Scapy](https://scapy.net/) - for the powerful packet manipulation capabilities.
-- [Python](https://www.python.org/) - for the scripting language used to develop ReconX.
-
-## Author
-
-Bright Spectre
-- GitHub: [thrive-spectre](https://github.com/thrive-spectrexq)
-- Email: [frimpsbathrive@gmail.com](frimpsbathrive@gmail.com)

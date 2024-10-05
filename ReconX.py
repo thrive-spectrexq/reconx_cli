@@ -12,7 +12,7 @@ class ReconX:
         self.report_file = "ReconX_Report.txt"
         self.evidence_data = {}
 
-        # Configure the logging system
+        # Configure the logging system here
         self.setup_logging()
 
     def setup_logging(self):

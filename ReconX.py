@@ -18,7 +18,7 @@ class ReconX:
     def setup_logging(self):
         log_file = os.path.join(self.case_directory, "ReconX_Log.txt")
 
-        # Configure the root logger
+        # Configure the root logger here
         logging.basicConfig(
             level=logging.INFO,
             format="%(asctime)s [%(levelname)s]: %(message)s",

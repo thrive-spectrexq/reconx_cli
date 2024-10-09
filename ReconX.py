@@ -58,7 +58,7 @@ class ReconX:
 
             logging.info(f"Network traffic captured and saved to: {capture_file_path}")
 
-            # Analyze captured packets
+            # Analyze captured packets here
             self.analyze_network_traffic(capture_file_path)
 
         except Exception as e:

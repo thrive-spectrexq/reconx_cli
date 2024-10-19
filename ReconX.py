@@ -50,7 +50,7 @@ class ReconX:
                 validated_network_folder, f"Capture_{timestamp}.pcap"
             )
 
-            # Use Scapy's sniff function to capture network traffic for a specified duration
+            # Use Scapy's sniff function to capture network traffic for a specified duration here
             packets = sniff(timeout=duration, store=True)
 
             # Save captured packets to a pcap file

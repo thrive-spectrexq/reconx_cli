@@ -1,9 +1,9 @@
-# ReconX-Simple_Digital_Forensics_CLI_Tool
-# ReconX
+## ReconX-Simple_Digital_Forensics_CLI_Tool
+## ReconX
 
 ReconX is a simple python digital forensics tool designed for capturing and analyzing network traffic, acquiring and analyzing evidence, performing incident response, and generating comprehensive reports.
 
-## Features
+### Features
 
 - **Network Traffic Capture:** Capture network traffic using Scapy, allowing for flexible and customizable packet analysis.
 
@@ -15,7 +15,7 @@ ReconX is a simple python digital forensics tool designed for capturing and anal
 
 - **Reporting:** Generate detailed reports summarizing captured network traffic, evidence details, and incident response actions.
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
@@ -36,7 +36,7 @@ ReconX is a simple python digital forensics tool designed for capturing and anal
     python ReconX.py
     ```
 
-## Usage
+### Usage
 
 1. **Capture Network Traffic:**
     ```bash
@@ -57,10 +57,10 @@ ReconX is a simple python digital forensics tool designed for capturing and anal
 5. **Generate Report:**
     - A detailed report is generated in `ReconX_Report.txt`.
 
-## Contributing
+### Contributing
 
 Contributions are welcome! If you have suggestions, feature requests, or bug reports, please [open an issue](https://github.com/thrive-spectre/ReconX-Simple_Digital_Forensics_CLI_Tool/issues) or [submit a pull request](https://github.com/thrive-spectre/ReconX-Simple_Digital_Forensics_CLI_Tool/pulls).
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
